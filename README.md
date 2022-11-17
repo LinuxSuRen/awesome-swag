@@ -7,6 +7,7 @@ As an open source contributor, how many awesome swag do you know?
 
 | Name | Image | Details |
 |---|---|---|
+| Cup | <img src="https://user-images.githubusercontent.com/1450685/202434858-37db50df-e076-4038-b74b-adbea9167153.png" height="100"/> | [view](data/cup.yaml) |
 | Hoodie | <img src="https://cdn.shopify.com/s/files/1/0082/9879/0963/products/CDF-Hoodie-_2.png" height="100"/> | [view](data/hoodie.yaml) |
 | Socks | <img src="https://cdn.shopify.com/s/files/1/0082/9879/0963/products/Design-6_1.png?v=1649771963" height="100"/> | [view](data/socks.yaml) |
 | Sticker | <img src="https://cdn.shopify.com/s/files/1/0082/9879/0963/products/2990660.png" height="100"/> | [view](data/sticker.yaml) |
